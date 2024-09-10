@@ -3,5 +3,35 @@
     width: 100%; 
     margin: 10px; 
     border-radius: 10px; 
-    background-color: hotpink;
+}
+
+.red-box {
+    background-color: rgb(158, 1, 66);
+}
+.orange1-box {
+    background-color: rgb(213, 62, 79);
+}
+.orange2-box {
+    background-color: rgb(244, 109, 67);
+}
+.yellow1-box {
+    background-color: rgb(253, 174, 97);
+}
+.yellow2-box {
+    background-color: rgb(254, 224, 139);
+}
+.lime-box {
+    background-color: rgb(230, 245, 152);
+}
+.green-box {
+    background-color: rgb(171, 221, 164);
+}
+.darkergreen-box {
+    background-color: rgb(102, 194, 165);
+}
+.blue-box {
+    background-color: rgb(50, 136, 189);
+}
+.purple-box {
+    background-color: rgb(94, 79, 162);
 }
